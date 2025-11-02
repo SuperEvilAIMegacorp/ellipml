@@ -77,14 +77,9 @@ ellipml/                Structural analysis
 ├── tagging_engine.py
 └── run_analysis.py
 
-md/                     Documentation
-├── user-guides/        Usage guides
-├── technical/          Implementation details
-└── results/            Experimental reports
-
 results/                Experiment outputs (JSON/CSV/PNG)
 examples/               Usage examples
-ellipticpp/             Dataset files
+ellipticpp/             Dataset files (DOWNLOAD FROM GOOGLE DRIVE)
 ```
 
 ## Dataset
