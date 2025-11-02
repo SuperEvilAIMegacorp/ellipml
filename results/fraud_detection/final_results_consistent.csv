@@ -1,0 +1,6 @@
+Rank,Model,Graph_Type,F1_Illicit,Accuracy,Precision,Recall,Training_Time_sec,Hidden_Dim
+1,HeteroGNN,Heterogeneous,0.8918,0.9787,0.8835,0.9003,7.33,64
+2,GraphSAGE,Homogeneous,0.8549,0.9707,0.8263,0.8856,1.09,64
+3,GCN,Homogeneous,0.7305,0.9407,0.6569,0.8226,1.69,64
+4,GAT,Homogeneous,0.7122,0.9294,0.5917,0.8944,2.9,64
+5,HeteroGNN+Attention,Heterogeneous,0.6218,0.9211,0.5845,0.6642,30.08,64

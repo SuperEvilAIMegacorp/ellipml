@@ -1,0 +1,10 @@
+
+__pycache__/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+checkpoints/
+deprecated/
+ellipticpp/
+md/
